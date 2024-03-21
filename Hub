@@ -88,3 +88,5 @@ local Tab = Window:MakeTab({
 	PremiumOnly = false
 })
 Tab:AddLabel("Credits To - stangd - (creator) - KIRILL_GIGLOL - tester")
+
+OrionLib:Init()
